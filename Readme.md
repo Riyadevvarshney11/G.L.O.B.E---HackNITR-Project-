@@ -30,13 +30,17 @@ Demo Video: https://youtu.be/QR-0Ujgpr20
 
 ### Screenshots
 * Home Page
+
 ![Screenshot](Screenshots/homepage.png)
 ![Screenshot](Screenshots/Hompage2.png)
 * Login Page
+
 ![Screenshot](Screenshots/login.png)
 * Jobs page
+
 ![Screenshot](Screenshots/jobs.png)
 * Training page
+
 ![Screenshot](Screenshots/training.png)
 
 ## Technologies
@@ -56,5 +60,13 @@ $ git clone https://github.com/Riyadevvarshney11/G.L.O.B.E---HackNITR-Project-.g
 $ npm install
 $ nodemon
 ```
+## Features
+***
+
+* Job Portal for LGBTQ Community
+* Scholarships for the Community. 
+* SignIn/ SignUp
+* Get counselling session.
+* Platform for companies to recruit LGBTQ members.
 
 <div align= "center" > Made with ❤️ and ☕️ </div>
